@@ -5,4 +5,4 @@ FontTypeSetting
 
 如图：
   
-    ![alt text](https://github.com/sunalong/sources/blob/master/fontTypeSetting.png "thedisplay")
+![alt text](https://github.com/sunalong/sources/blob/master/fontTypeSetting.png "thedisplay")
