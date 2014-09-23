@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:id="@+id/tvName"
+        style="@style/ListTitleText"
+        android:paddingBottom="0dp"
+        android:singleLine="true"
+        android:text="@string/_data_name"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        style="@style/ListSubtitleText"
+        android:singleLine="true"
+        android:text="@string/_data_description"
+        android:textColor="@color/text_description" />
+
+</merge>

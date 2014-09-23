@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">字体排版</string>
+
+    <string name="_data_name">名称</string>
+
+    <string name="_data_description">描述</string>
+
+    <string name="_submit">确定</string>
+
+    <string name="_edit_data">等宽字体（Monospaced Font）是指字符宽度相同的电脑字体。</string>
+</resources>
